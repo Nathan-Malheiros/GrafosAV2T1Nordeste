@@ -1,5 +1,7 @@
 # Resolução de Problemas com Grafos - Região Nordeste
 
+Link do Video Explicativo : https://youtu.be/AKsDepzmrJc
+
 Trabalho prático desenvolvido para a disciplina de Teoria dos Grafos, orientado pelo **Prof. Me. Ricardo Carubbi**. O projeto consiste na modelagem das fronteiras terrestres dos estados do Nordeste brasileiro e na aplicação de algoritmos de busca (DFS e BFS).
 
 ## 👥 Equipe
